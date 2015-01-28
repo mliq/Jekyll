@@ -668,7 +668,7 @@ dl, dd, ol, ul, figure {
 /**
  * Basic styling
  */
-body {
+/*body {
   font-family: Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
@@ -676,7 +676,7 @@ body {
   color: #111111;
   background-color: #fdfdfd;
   -webkit-text-size-adjust: 100%; }
-
+*/
 /**
  * Set `margin-bottom` to maintain vertical rhythm
  */

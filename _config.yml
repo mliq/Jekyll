@@ -15,3 +15,6 @@ TZ: 'America/Chicago'
 
 # Build settings
 markdown: kramdown
+
+# put in blog subdirectory
+permalink: /blog/:categories/:year/:month/:day/:title.html
