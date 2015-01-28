@@ -344,6 +344,14 @@ body {
 JEKYLL
 **********************/
 
+/*CUSTOM*/
+
+/* how ** is processed */
+strong {
+  /*font-family: "Helvetica Neue";*/
+}
+
+/*DEFAULT*/
 
 /**
  * Syntax highlighting styles
