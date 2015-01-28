@@ -111,6 +111,15 @@ footer {
   margin: 0 5px;
 }
 
+footer a {
+  color: #BBB;
+  margin: 0 5px;
+}
+
+footer a:hover {
+  color: #1846A5;
+}
+
 /**********************
 PAGE: RESUME / CV
 **********************/
