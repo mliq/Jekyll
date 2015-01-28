@@ -3,19 +3,22 @@ layout: post
 title:  "Welcome To My Blog!"
 date:   2015-01-28 11:33:00
 categories: meta
+excerpt: "In this post, I will note the motivation for creating this blog, and a little about me."
 ---
 
 Hi, and welcome to my blog!
 
-In this post, I will note the motivation for creating this blog, and a little about who I am.
-<!--more-->
+In this post, I will note the motivation for creating this blog, and a little about me.
+
 In the [next post]({% post_url 2015-01-29-how-this-blog-was-made %}), I will go over the steps I followed to create this site.
 
-I have recently embarked on a journey to become a professional software developer. Currently, the majority of my expertise is in data science (statistics and finance, R and Excel / VBA). I am excited to be expanding my knowledge in visual and user experience (UX) aspects of design. I love to make things that are streamlined and elegant to the senses, while of course also providing great, error-free and efficient functionality under the hood.
+Me:
 
-So, this blog will be focused on issues related to web development as I progress in this journey, and I hope that what I share here might help others on a similar path.
+I have recently embarked on a journey to become a professional software developer. Most of my expertise to this point is in data science, statistics and finance, and I am very excited to expand into the visual and user experience (UX) aspects of design. I love to make things that are streamlined and elegant to the senses, while of course also providing great, error-free and efficient functionality under the hood.
 
-Many times throughout my life I have experienced a concept that I am really not able to wrap my head around, until I arrive to an explanation that is put in just a certain way that makes it seem so simple and easy.  After that, a wall is often broken down, and one can often return to previously unintelligible explanations with a huge boost in understanding. I hope I might return the infinite favors the web has bestowed upon me over the years by possibly providing an explanation that allows others to achieve a similar breakthrough moment.
+This Blog:
 
-Finally, writing this blog will also no doubt help me, as writing and teaching a concept to others is a great way to explore and cement new concepts in your mind, even if that someone else is an imaginary reader.
+Not infrequently, we can run into a concept that we are just unable to really grasp, until we arrive to a singular explanation that seems to have been made especially for our brains, which hoists us over the mental wall and allows us to keep moving. One aim of this blog is to return a few of the infinite favors the web has bestowed upon me over the years, by providing clear explanations that might allow others to achieve a similar breakthrough moment.
+
+Secondarily, writing this blog will no doubt help me, as writing and teaching a concept to others is a great way to explore and cement new concepts in your mind, even if that someone else is an imaginary reader.
 
