@@ -347,8 +347,26 @@ JEKYLL
 /*CUSTOM*/
 
 /* how ** is processed */
-strong {
-  /*font-family: "Helvetica Neue";*/
+/*strong {
+  font-family: "Helvetica Neue";
+}*/
+
+/*Links*/
+.post-content a,.post-content a:visited {
+  color: #2D84FA;
+}
+.post-content a:hover {
+  color: #333;
+}
+
+.post-list a,.post-content a:visited {
+  color: #2D84FA;
+  font-size: 1.5em;
+  font-family: 'Bitter', serif;
+  margin: 8px 0px 15px 0px;
+}
+.post-list a:hover {
+  color: #333;
 }
 
 /*DEFAULT*/
@@ -504,7 +522,7 @@ strong {
   font-size: 2.2em;
   letter-spacing: -1px;
   line-height: 1; 
-  margin-top: 2.5em;
+  margin-top: 3em;
   font-family: 'Changa One';
   /*font-style: italic;*/
   }
