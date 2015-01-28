@@ -15,6 +15,7 @@ TZ: 'America/Chicago'
 
 # Build settings
 markdown: kramdown
+excerpt_separator: <!--more-->
 
 # put in blog subdirectory
 permalink: /blog/:categories/:year/:month/:day/:title.html

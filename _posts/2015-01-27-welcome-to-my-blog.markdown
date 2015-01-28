@@ -4,10 +4,11 @@ title:  "Welcome To My Blog!"
 date:   2015-01-28 11:33:00
 categories: meta
 ---
+
 Hi, and welcome to my blog!
 
 In this post, I will note the motivation for creating this blog, and a little about who I am.
-
+<!--more-->
 In the [next post]({% post_url 2015-01-29-how-this-blog-was-made %}), I will go over the steps I followed to create this site.
 
 I have recently embarked on a journey to become a professional software developer. Currently, the majority of my expertise is in data science (statistics and finance, R and Excel / VBA). I am excited to be expanding my knowledge in visual and user experience (UX) aspects of design. I love to make things that are streamlined and elegant to the senses, while of course also providing great, error-free and efficient functionality under the hood.
