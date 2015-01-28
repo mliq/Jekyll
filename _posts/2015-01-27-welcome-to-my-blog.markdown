@@ -10,11 +10,9 @@ Hi, and welcome to my blog!
 
 In this post, I will note the motivation for creating this blog, and a little about me.
 
-In the [next post]({% post_url 2015-01-29-how-this-blog-was-made %}), I will go over the steps I followed to create this site.
-
 Me:
 
-I have recently embarked on a journey to become a professional software developer. Most of my expertise to this point is in data science, statistics and finance, and I am very excited to expand into the visual and user experience (UX) aspects of design. I love to make things that are streamlined and elegant to the senses, while of course also providing great, error-free and efficient functionality under the hood.
+I have recently embarked on a journey to become a professional software developer. My technical expertise is primarily statistics and finance (data science), and I am very excited to expand into working with the visual and user experience (UX) aspects of design. I love to make things that are streamlined and elegant to the senses, while of course also providing great, error-free and efficient functionality under the hood.
 
 This Blog:
 
@@ -22,3 +20,4 @@ Not infrequently, we can run into a concept that we are just unable to really gr
 
 Secondarily, writing this blog will no doubt help me, as writing and teaching a concept to others is a great way to explore and cement new concepts in your mind, even if that someone else is an imaginary reader.
 
+In the [next post]({% post_url 2015-01-29-how-this-blog-was-made %}), I will go over the steps I followed to create this site.
