@@ -1,26 +1,30 @@
 ---
 layout: post
 title:  "Welcome to my blog!"
-date:   2015-01-27 16:23:00
+date:   2015-01-28 11:33:00
 categories: meta
 ---
+Hi, and welcome to my blog!
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+In this post, I will note the motivation for creating this blog, and a little about who I am.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+In the [next post]({% post_url 2015-01-29-how-this-blog-was-made %}), I will go over the steps I followed to create this site.
 
-Jekyll also offers powerful support for code snippets:
+#### Me: 
+I have recently embarked on a journey to become a professional software developer. Currently, the majority of my expertise is in **data science** (statistics and finance, R and Excel / VBA). 
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+I am excited about expanding my knowledge in the visual and user experience (UX) aspects of design. I love to make things that are streamlined and elegant to the senses, while of course also providing great, error-free and efficient functionality under the hood.
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
+So, this blog will be focused on issues related to **web development** as I progress in this journey.  I hope that what I share here might help others on a similar path.
 
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+####Motivation:
+
+1. Learning better by writing / teaching:
+
+    A great way to explore and cement new concepts in your mind is to explain them to someone else, even if that someone else is just a blank screen.
+
+2. A resource for others:
+  
+    Some subjects can be very hard to wrap one's head around until you see/hear/read it explained in a certain way that just makes it seem so simple. After that, a wall is often broken down and one can then circle back to the previously unintelligible explanations with a very different mindset and vastly better understanding. 
+
+    I have experienced this many times throughout my education, and greatly appreciate the ability to read ten different well-done explanations of the same topic which the web offers us. If I can offer a useful explanation of a concept to others that helps them achieve a breakthrough and saves them time and frustration, this blog will have served a great purpose.
