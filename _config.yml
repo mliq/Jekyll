@@ -9,7 +9,7 @@ twitter_username: mliq
 github_username:  mliq
 
 # Time & Site setup
-baseurl: "/Jekyll" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://mliq.github.io" # the base hostname & protocol for your site
 TZ: 'America/Chicago'
 
